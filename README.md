@@ -46,7 +46,7 @@ do it by your self
 if you just read you will  not make any chang 
 
 
- repo Update
+ > **repo Update**
 
 This repo will be updated daily i will upload a lesson per day (matrials,cod,docs,video and toturial) for each lesson
 
