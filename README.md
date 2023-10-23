@@ -33,14 +33,14 @@ if you dont have node download it for link [node.js](https://nodejs.org/en/)
 
 > **How to Use Repo**
 
-> first 
+> - first 
 
 read this README
 
-> scond
+> - scond
 
  Install all requirements
->  third
+> - third
 
 do it by your self 
 if you just read you will  not make any chang 
