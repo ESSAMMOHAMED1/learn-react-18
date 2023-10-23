@@ -1,50 +1,58 @@
 # learn-react-18
-** hi lets start our journey to learning react 18 **
+hi ,lest start our journy to learning react 18
 
-### Requirements
+>  Requirements
 
-To get along with the challenge, you need to have the following:
+To get along with the challenge you need to have the following:
 
 1. A browser
 2. A code editor
 3. node.js
-4. HTML, CSS and JavaScript intermediate-level skills
-here is some important topics in JS before starting to react: ** [js_warm_up](https://github.com/ESSAMMOHAMED1/js_warm_up.git)**
+4. HTML, CSS and JavaScript intermediate level skill
+here is some important topics in JS before start react [js_warm_up](https://github.com/ESSAMMOHAMED1/js_warm_up.git)
 
 ------------
 
-### Install VS Code
+> Install VS Code
+
 we need a code editor to start our journy i recommend VS Code
-you can dowenload it from **[link](https://code.visualstudio.com/download)**
+you can dowenload it from  [link](https://code.visualstudio.com/download)
 
 ------------
 
-### check if you have node 
+> check if you have node
+
 We can check if node is installed on our local machine by opening our device terminal or command prompt.
 ```sh
 node -v
 ```
-if you dont have node download it for link **[node.js](https://nodejs.org/en/)**
+if you dont have node download it for link [node.js](https://nodejs.org/en/)
 
 
 ------------
 
 
-### How to Use Repo
- ##### first 
-read this README 
- ##### second
+>  How to Use Repo
+
+> first 
+
+read this README
+
+> second
+
  Install all requirements
-##### third
-do it by yourself.
-if you just read, you will  not make any changes.
+>  third
+
+do it by your self 
+if you just read you will  not make any chang 
 
 ------------
 
-### repo Update
-This repo will be updated daily i will upload a lesson per day (matrials, code, documents,video and tutorial) for each lesson
+> repo Update
+
+This repo will be updated daily i will upload a lesson per day (matrials,cod,docs,video and toturial) for each lesson
 ______________
-### ⭐first lesson will upload tomorrow⭐
+> ⭐first lesson will upload tomorrow⭐
 #### star this repo and wait it will be so good ⭐💜
 
 
