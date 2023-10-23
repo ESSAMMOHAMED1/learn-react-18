@@ -1,5 +1,5 @@
 # learn-react-18
-** hi let's start our journey to learning react 18 **
+** hi lets start our journey to learning react 18 **
 
 ### Requirements
 
