@@ -1,15 +1,15 @@
 # learn-react-18
-**hi ,les`t start our journy to learning react 18 **
+**hi let's start our journey to learning react 18 **
 
 ### Requirements
 
-To get along with the challenge you need to have the following:
+To get along with the challenge, you need to have the following:
 
 1. A browser
 2. A code editor
 3. node.js
-4. HTML, CSS and JavaScript intermediate level skill
-here is some important topics in JS before start react** [js_warm_up](https://github.com/ESSAMMOHAMED1/js_warm_up.git)**
+4. HTML, CSS and JavaScript intermediate-level skills
+here is some important topics in JS before starting to react: ** [js_warm_up](https://github.com/ESSAMMOHAMED1/js_warm_up.git)**
 
 ------------
 
@@ -24,7 +24,7 @@ We can check if node is installed on our local machine by opening our device ter
 ```sh
 node -v
 ```
-if you don`t have node download it for link **[node.js](https://nodejs.org/en/)**
+if you dont have node download it for link **[node.js](https://nodejs.org/en/)**
 
 
 ------------
@@ -35,16 +35,19 @@ if you don`t have node download it for link **[node.js](https://nodejs.org/en/)*
 read this README 
  ##### second
  Install all requirements
-#####third
-do it by your self 
-if you just read you will  not make any chang 
+##### third
+do it by yourself.
+if you just read, you will  not make any changes.
 
 ------------
 
 ### repo Update
-This repo will be updated daily i will upload a lesson per day (matrials,cod,docs,video and toturial) for each lesson
+This repo will be updated daily i will upload a lesson per day (matrials, code, documents,video and tutorial) for each lesson
 ______________
-###⭐first lesson will upload tomorrow⭐
-####star this repo and wait it will be so good ⭐💜
+### ⭐first lesson will upload tomorrow⭐
+#### star this repo and wait it will be so good ⭐💜
+
+
+
 
 
