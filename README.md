@@ -7,7 +7,7 @@ To get along with the challenge you need to have the following:
 
 1. A browser
 2. A code editor
-3. node.js
+3. Node.js
 4. HTML, CSS and JavaScript intermediate level skill
 here is some important topics in JS before start react [js_warm_up](https://github.com/ESSAMMOHAMED1/js_warm_up.git)
 
