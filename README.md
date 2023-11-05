@@ -50,8 +50,8 @@ if you just read you will  not make any chang
 
 This repo will be updated daily i will upload a lesson per day (matrials,cod,docs,video and toturial) for each lesson
 
-> ⭐First lesson [Creat first component ]()⭐
-> ⭐Second lesson [React props]()⭐
+> ⭐First lesson [Creat first component ](https://654785cbe8bd083f020e0abf--emoblog.netlify.app/new%20post.html)⭐
+> ⭐Second lesson [React props](https://654785cbe8bd083f020e0abf--emoblog.netlify.app/newpost_2)⭐
 
 star this repo and wait it will be so good ⭐💜
 
