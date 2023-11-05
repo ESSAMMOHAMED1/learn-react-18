@@ -50,8 +50,10 @@ if you just read you will  not make any chang
 
 This repo will be updated daily i will upload a lesson per day (matrials,cod,docs,video and toturial) for each lesson
 
-> ⭐first lesson will upload tomorrow⭐
-#### star this repo and wait it will be so good ⭐💜
+> ⭐First lesson [Creat first component ]()⭐
+> ⭐Second lesson [React props]()⭐
+
+star this repo and wait it will be so good ⭐💜
 
 
 
