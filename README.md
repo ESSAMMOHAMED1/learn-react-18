@@ -52,7 +52,7 @@ if you just read you will  not make any chang
 
 > ⭐Second lesson👉 [React props](https://654785cbe8bd083f020e0abf--emoblog.netlify.app/newpost_2)
 
-star this repo and wait it will be so good ⭐💜
+star this repo for more ⭐💜
 
 
 
